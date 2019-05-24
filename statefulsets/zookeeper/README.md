@@ -1,3 +1,6 @@
+# 说明
+3.4.10已经无法下载，更新到3.4.14，且地址改为镜像站的archive防止过期。
+
 # Kubernetes ZooKeeper K8SZK
 This project contains a Docker image meant to facilitate the deployment of 
 [Apache ZooKeeper](https://zookeeper.apache.org/) on [Kubernetes](http://kubernetes.io/) using 
